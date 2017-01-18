@@ -1,0 +1,3 @@
+GetAboutPapaBearIntent give me some information about Papa Bear
+GetAboutPapaBearIntent tell me about Papa Bear
+GetAboutPapaBearIntent who is Papa Bear
